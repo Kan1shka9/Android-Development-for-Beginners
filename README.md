@@ -5,3 +5,11 @@ The list of apps are as follows :-
 *	HappyBirthday
 *	OhMyGod
 *	CourtCounter
+*	Cookies
+*	MyApplication
+*	PPracticeSet2
+*	Menu
+*	JustJava
+
+Previews :-
+* HappyBirthday
