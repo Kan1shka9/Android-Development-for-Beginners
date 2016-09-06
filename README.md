@@ -41,11 +41,11 @@ Previews :-
 * MyApplication  
 ![alt tag](https://github.com/Kan1shka9/Android-Development-for-Beginners/blob/master/Preview_Images/MyApplication.png)  
 
-* JustJava
+* JustJava  
 ![alt tag](https://github.com/Kan1shka9/Android-Development-for-Beginners/blob/master/Preview_Images/JustJava_1.png)  
 ![alt tag](https://github.com/Kan1shka9/Android-Development-for-Beginners/blob/master/Preview_Images/JustJava_2.png)  
 ![alt tag](https://github.com/Kan1shka9/Android-Development-for-Beginners/blob/master/Preview_Images/JustJava_3.png)  
 ![alt tag](https://github.com/Kan1shka9/Android-Development-for-Beginners/blob/master/Preview_Images/JustJava_4.png)  
 ![alt tag](https://github.com/Kan1shka9/Android-Development-for-Beginners/blob/master/Preview_Images/JustJava_5.png)  
 ![alt tag](https://github.com/Kan1shka9/Android-Development-for-Beginners/blob/master/Preview_Images/JustJava_6.png)  
-![alt tag](https://github.com/Kan1shka9/Android-Development-for-Beginners/blob/master/Preview_Images/JustJava_7.png)  
+![alt tag](https://github.com/Kan1shka9/Android-Development-for-Beginners/blob/master/Preview_Images/JustJava_7.PNG)  
